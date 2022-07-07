@@ -282,7 +282,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
                                                                   <div class="section--social">
                                     <div class="study-title">
                                        <h2 data-aos="fade-up" data-aos-offset="300" data-aos-easing="ease" data-aos-duration="350">Study</h2>
-                                       <h3 data-aos="fade-down" data-aos-offset="300" data-aos-easing="ease" data-aos-duration="450">At REVA</h3>
+                                       <h3 data-aos="fade-down" data-aos-offset="300" data-aos-easing="ease" data-aos-duration="450">At REVA University</h3>
                                     </div>
                                  </div>
                                  <h4>REVA University</b></h4>
@@ -899,7 +899,7 @@ function myFunction()
                                                    <li><a rel="nofollow" href="https://www.linkedin.com/school/reva-university/" target="_blank"><img loading="lazy" src="https://revaeduin.s3.ap-south-1.amazonaws.com/assets/frontend/images/linkdin-icon.svg" alt="linkdin" width="34" height="33"></a></li>
                                                 </ul>
                                           </div>
-                                          <p class="font-12">© RECT All Rights Reserved <br> Website Design and Development by <a href="https://www.stercodigitex.com/" target="_blank" class="sterco">Sterco Digitex</a>                                          </p>
+                                          <p class="font-12">Â© RECT All Rights Reserved <br> Website Design and Development by <a href="https://www.stercodigitex.com/" target="_blank" class="sterco">Sterco Digitex</a>                                          </p>
                                        </div>
                                     </div>
                                  </div>
@@ -965,7 +965,7 @@ function myFunction()
                                        <li><a href="https://www.linkedin.com/school/reva-university/" target="_blank"><img loading="lazy" src="https://revaeduin.s3.ap-south-1.amazonaws.com/assets/frontend/images/linkdin-icon.svg"></a></li>
                                     </ul>
                                  </div>
-                                 <p class="font-12">© RECT All Rights Reserved <br> Website Design and Development by <a href="https://www.stercodigitex.com/" target="_blank" class="sterco">Sterco Digitex</a>                                 </p>
+                                 <p class="font-12">Â© RECT All Rights Reserved <br> Website Design and Development by <a href="https://www.stercodigitex.com/" target="_blank" class="sterco">Sterco Digitex</a>                                 </p>
                               </div>
                            </div>
                         </div>
