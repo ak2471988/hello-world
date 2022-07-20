@@ -8,7 +8,7 @@
 <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
 <meta name="google-site-verification" content="7Pf6ZcoOYp2ag0Zqu2K3PToxwGcCzkUrjz7sozBfq2M" />
 <title>
-KARNATAKA | REVA University</title>
+INDIA | REVA University</title>
 <meta name="description" content="REVA University is the best university in Bangalore boasting of having a state-of-the-art infrastructure to create an environment conducive to higher learning and research." />
 <meta name="keywords" content="top university in Bangalore, best university in Bangalore, universities in Bangalore" />
 <!-- Open Graph / Facebook -->
